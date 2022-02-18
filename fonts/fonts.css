@@ -1,0 +1,48 @@
+@font-face {
+    font-family: GSans;
+    font-style: normal;
+    font-weight: normal;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Regular.ttf");
+}
+
+@font-face {
+    font-family: GSans;
+    font-style: italic;
+    font-weight: normal;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Italic.ttf");
+}
+
+@font-face {
+    font-family: GSans;
+    font-style: normal;
+    font-weight: bold;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Bold.ttf");
+}
+
+@font-face {
+    font-family: GSans;
+    font-style: italic;
+    font-weight: bold;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Bold Italic.ttf");
+}
+
+
+@font-face {
+    font-family: GSans;
+    font-style: normal;
+    font-weight: bolder;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Medium.ttf");
+}
+
+@font-face {
+    font-family: GSans;
+    font-style: italic;
+    font-weight: bolder;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: url("Google Sans Text Medium Italic.ttf");
+}
